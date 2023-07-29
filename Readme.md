@@ -1,3 +1,5 @@
+its Makes For Intern Model #bharat Intern
+
 # Personal Portfolio 🔥
 > http://Shahul16.github.io/
 
@@ -10,20 +12,15 @@
 
 ### Website Preview
 #### Home Page
-<!-- About Page -->
 <img src="1.png" width="900">
-
-<!-- Projects Page -->
-<img src="2.png" width="900">
-
 
 
 #### About Page
-<img src="web Site Page/2.png" width="900">
+<img src="2.png" width="900">
 
 
 #### Projects Page
-<img src="web Site Page/3.png" width="900">
+<img src="3.png" width="900">
   
 
 
