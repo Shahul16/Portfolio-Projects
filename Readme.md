@@ -15,10 +15,6 @@ its Makes For Intern Model #bharat Intern
 <img src="1.png" width="900">
 
 
-#### About Page
-<img src="2.png" width="900">
-
-
 #### Projects Page
 <img src="3.png" width="900">
   
@@ -47,7 +43,6 @@ its Makes For Intern Model #bharat Intern
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
 ✔️ Contact Info
 
 
